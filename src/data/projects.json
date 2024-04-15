@@ -1,0 +1,49 @@
+[
+  {
+    "title": "Book Nook",
+    "imageSrc": "projects/booknook.png",
+    "description": "Developed a RESTful API tailored for effortlessly managing the books I've read,  comprehensive CRUD operations to streamline book management processes.",
+    "skills": ["Node", "React", "Express", "MongoDB"],
+    "demo": "https://booknook-n1ll.onrender.com/",
+    "source": "https://github.com/shobhitsugumar/BookNook"
+  },
+  {
+    "title": "Trip Nest",
+    "imageSrc": "projects/TripNest3.png",
+    "description": "Created TourFinder, a secure location-based tour discovery app, simplifying travel experiences by effortlessly finding nearby tours. make this small ",
+    "skills": ["Express", "Node", "Css", "MongoDB"],
+    "source": "https://github.com/shobhitsugumar/TripNest"
+  },
+  {
+    "title": "Meet Verse",
+    "imageSrc": "projects/project.png",
+    "description": "Experience seamless video calls and real-time messaging with our PeerJS and SocketJS powered website.",
+    "skills": ["Peerjs", "Socketjs", "Express", "Node"],
+
+    "source": "https://github.com/shobhitsugumar/MeetVerse"
+  },
+
+  {
+    "title": "Track Pedal",
+    "imageSrc": "projects/TrackPedal.png",
+    "description": "Track Pedal is a user-friendly website for tracking running and cycling activities, featuring performance analysis, goal setting, and social sharing capabilities.",
+    "skills": ["Javascript", "Html", "Css"],
+    "demo": "https://trackpedal.netlify.app/",
+    "source": "https://github.com/shobhitsugumar/TrackPedal"
+  },
+  {
+    "title": "Proxy-Server",
+    "imageSrc": "projects/proxyServer.png",
+    "description": " Developed a straightforward proxy server to facilitate secure and efficient data transmission between clients and servers.",
+    "skills": ["Express", "Node", "http-proxy"],
+    "source": "https://github.com/shobhitsugumar/proxy_server"
+  },
+  {
+    "title": "PickMe",
+    "imageSrc": "projects/Pickme.png",
+    "description": "Pick Me is a two-player dice game showcasing JavaScript game development skills.",
+    "skills": ["Javascript", "css", "Html"],
+    "demo": "https://pick-a-no.netlify.app/",
+    "source": "https://github.com/shobhitsugumar/pickme-Dice-Rolling"
+  }
+]
