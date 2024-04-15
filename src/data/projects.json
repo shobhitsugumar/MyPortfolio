@@ -45,14 +45,7 @@
     "skills": ["Javascript", "css", "Html"],
     "demo": "https://pick-a-no.netlify.app/",
     "source": "https://github.com/shobhitsugumar/pickme-Dice-Rolling"
-  },
-  {
-    "title": "Book Nook",
-    "imageSrc": "projects/booknook.png",
-    "description": "Developed a RESTful API tailored for effortlessly managing the books I've read,  comprehensive CRUD operations to streamline book management processes.",
-    "skills": ["Node", "React", "Express", "MongoDB"],
-    "demo": "https://booknook-n1ll.onrender.com/",
-    "source": "https://github.com/shobhitsugumar/BookNook"
   }
+  
 
 ]
