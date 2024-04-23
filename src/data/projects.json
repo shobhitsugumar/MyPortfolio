@@ -1,5 +1,13 @@
 [
   {
+    "title": "CreatePixxAI",
+    "imageSrc": "projects/CreatePixAI.png",
+    "description": "The Image Generating API empowers users to create tailored images from textual prompts, fostering creativity and engagement across diverse digital platforms.",
+    "skills": ["Node", "React", "Express", "MongoDB"],
+    "demo": "https://createpixxai.netlify.app/",
+    "source": "https://github.com/shobhitsugumar/CreatePixAI"
+  },
+  {
     "title": "Book Nook",
     "imageSrc": "projects/booknook.png",
     "description": "Developed a RESTful API tailored for effortlessly managing the books I've read,  comprehensive CRUD operations to streamline book management processes.",
